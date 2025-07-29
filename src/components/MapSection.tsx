@@ -17,7 +17,7 @@ const MapSection = () => {
             <div className="bg-gradient-to-br from-bronze/10 to-warm-gold/10 rounded-3xl p-16 h-96 flex items-center justify-center backdrop-blur-sm border border-bronze/20">
               <div className="text-center text-bronze">
                 <MapPin size={64} className="mx-auto mb-6 opacity-60 group-hover:opacity-100 transition-opacity duration-500" />
-                <h3 className="text-3xl font-display font-light mb-4 tracking-wide">Marrakech</h3>
+                <h3 className="text-3xl font-display font-light mb-4 tracking-wide">Sale</h3>
                 <p className="font-serif font-light text-lg opacity-80">Cœur du Maroc</p>
               </div>
             </div>
