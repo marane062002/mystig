@@ -38,7 +38,7 @@ const MapSection = () => {
             
             <div className="space-y-10">
               {[
-                { icon: MapPin, title: 'Adresse', content: 'Medina, Marrakech\nMaroc' },
+                { icon: MapPin, title: 'Adresse', content: 'Sala-Al-Jadida, Sale\nMaroc' },
                 { icon: Phone, title: 'Téléphone', content: '+212 5 24 XX XX XX' },
                 { icon: Mail, title: 'Email', content: 'contact@mystigtravel.ma' },
                 { icon: Clock, title: 'Horaires', content: '9h - 18h\nLun - Sam' }
