@@ -91,7 +91,7 @@ const Footer = () => {
 
         {/* Bottom Footer */}
         <div className="flex flex-col md:flex-row justify-between items-center text-bronze/60 font-serif font-light">
-          <p className="mb-4 md:mb-0">© 2024 MystigTravel. Tous droits réservés.</p>
+          <p className="mb-4 md:mb-0">© 2025 MystigTravel. Tous droits réservés.</p>
           <div className="flex space-x-8">
             <a href="#" className="hover:text-bronze transition-colors duration-300">
               Mentions légales
