@@ -18,7 +18,7 @@ const Hero = () => {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat transform scale-110 transition-transform duration-[10s] ease-out"
         style={{
-          backgroundImage: 'url(https://images.pexels.com/photos/3889847/pexels-photo-3889847.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280&fit=crop)',
+          backgroundImage: 'url(https://marrakechtourcompany.com/wp-content/uploads/2022/08/Best-Moroccan-Travel-Agency-1.png?auto=compress&cs=tinysrgb&w=1920&h=1280&fit=crop)',
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/30 to-black/50"></div>
